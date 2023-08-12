@@ -1,20 +1,20 @@
 @font-face {
     font-family: "TT Lakes";
-    src: url(..tt-lakes/TTLakes-Regular.ttf);
+    src: url(behappyqq.github.io/tt-lakes/TTLakes-Regular.ttf);
     font-style: normal;
     font-weight: 400;
 }
 
 @font-face {
     font-family: "TT Lakes";
-    src: url(..tt-lakes/TTLakes-Bold.ttf);
+    src: url(behappyqq.github.io/tt-lakes/TTLakes-Bold.ttf);
     font-style: normal;
     font-weight: 700;
 }
 
 @font-face {
     font-family: "TT Lakes";
-    src: url(..tt-lakes/TTLakes-Medium.ttf);
+    src: url(behappyqq.github.io/tt-lakes/TTLakes-Medium.ttf);
     font-style: normal;
     font-weight: 500;
 }
@@ -71,7 +71,7 @@ html {
 }
 
 .header__button--burger {
-    background-image: url(..images/burger.svg);
+    background-image: url(behappyqq.github.io/images/burger.svg);
     
     margin-left: 16px;
     margin-top: 24px;
@@ -79,23 +79,23 @@ html {
 }
 
 .header__button--call {
-    background-image: url(..images/call.svg);
+    background-image: url(behappyqq.github.io/images/call.svg);
     display: none;
 }
 
 .header__button--chat {
-    background-image: url(..images/chat.svg);
+    background-image: url(behappyqq.github.io/images/chat.svg);
     display: none;
 }
 
 .header__button--profile {
-    background-image: url(..images/profile.svg);
+    background-image: url(behappyqq.github.io/images/profile.svg);
     display: none;
 }
 
 
 .header__logo {
-    background-image: url(..images/logo.svg);
+    background-image: url(behappyqq.github.io/images/logo.svg);
 
     width: 96.548px;
     height: 50.815px;
@@ -121,11 +121,11 @@ html {
 
 
 .header__button--repair {
-    background-image: url(..images/repair.svg);
+    background-image: url(behappyqq.github.io/images/repair.svg);
 }
 
 .header__button--check-status {
-    background-image: url(..images/checkstatus.svg);
+    background-image: url(behappyqq.github.io/images/checkstatus.svg);
 
     margin-left: 16px;
     margin-right: 16px;
@@ -143,7 +143,7 @@ html {
     width: 4px;
     height: 40px;
 
-    background-image: url(..images/highlight.svg);
+    background-image: url(behappyqq.github.io/images/highlight.svg);
 
 }
 
@@ -235,7 +235,7 @@ html {
 
     margin-left: 8px;
 
-    background-image: url(..images/read-more.svg);
+    background-image: url(behappyqq.github.io/images/read-more.svg);
     background-repeat: no-repeat;
     background-position: left center;
 
