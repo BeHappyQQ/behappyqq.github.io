@@ -191,6 +191,9 @@ html {
     display: block;
     color: #7E7E82;
 
+    border-radius: 6px;
+    border: 2px solid transparent;
+
     font-size: 16px;
     font-weight: 500;
     letter-spacing: -0.2px;
